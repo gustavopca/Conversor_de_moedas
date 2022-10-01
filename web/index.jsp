@@ -18,9 +18,7 @@
                         <legend>Dados</legend>
                         <p>
                             <input type="radio" name="opcao" id="Opcao" value="Dolar" title="Dólar americano"><label for="Opcao">Dólar americano</label>
-                            <input type="radio" name="opcao" id="Opc" value="Euro" title="Euro"><label for="Opc">Euro</label>
-                            <input type="radio" name="opcao" id="Op" value="Libra" title="Libra"><label for="Op">Libra esterlina</label>
-                        </p>
+                            </p>
                         <fieldset>
                             <p>
                                 <label for="real">Digite o valor em reais: R$</label>
