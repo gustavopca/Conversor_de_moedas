@@ -7,6 +7,7 @@
         <title>JSP Page</title>
     </head>
     
+    
     <body>
         <%
             try{
